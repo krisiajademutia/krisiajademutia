@@ -282,8 +282,11 @@ A mobile marketplace application for livestock-related buying and selling.
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/krisiajademutia/krisiajademutia/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krisiajademutia/krisiajademutia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krisiajademutia/krisiajademutia/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/krisiajademutia/krisiajademutia/output/github-contribution-grid-snake.svg" width="90%">
+</picture>
 
 </div>
 
