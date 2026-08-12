@@ -54,7 +54,7 @@ simulations, and mobile marketplaces**.
 
 <td width="50%" valign="top">
 
-## 🤖 ResQAI
+## 🤖 [ResQAI](https://github.com/krisiajademutia/ResQAI)
 
 ### AI Emergency Intelligence
 
@@ -68,7 +68,7 @@ An AI emergency intelligence system designed to transform public social-media si
 
 <td width="50%" valign="top">
 
-## 🩺 CataractDetection_CNN
+## 🩺 [CataractDetection_CNN](https://github.com/krisiajademutia/CataractDetection_CNN)
 
 ### Cataract Detection using CNN
 
@@ -85,13 +85,13 @@ A computer vision project focused on training a CNN model to determine whether a
 
 <td width="50%" valign="top">
 
-## 🦠 MalariaScan
+## 🦠 [MalariaScan](https://github.com/krisiajademutia/MalariaScan)
 
 ### Malaria Detection using Deep Learning
 
 A CNN-based model designed to analyze red blood cell images and determine whether they are infected with malaria.
 
-Explores **Transfer Learning using EfficientNetB0** alongside a custom CNN approach.
+The project explores **Transfer Learning using EfficientNetB0** alongside a custom CNN approach.
 
 **Focus:**  
 `CNN` `EfficientNetB0` `Transfer Learning` `Deep Learning`
@@ -100,7 +100,7 @@ Explores **Transfer Learning using EfficientNetB0** alongside a custom CNN appro
 
 <td width="50%" valign="top">
 
-## 🧠 Emotional Distress NLP
+## 🧠 [Emotional Distress NLP System](https://github.com/krisiajademutia/emotional-distress-nlp-system)
 
 ### NLP-Based Text Analysis
 
@@ -117,7 +117,7 @@ An NLP-based system designed to analyze user-generated text for indicators of se
 
 <td width="50%" valign="top">
 
-## 🧺 Laundry Modeling & Simulation
+## 🧺 [Laundry Modeling & Simulation](https://github.com/krisiajademutia/LaundryModelingandSimulation)
 
 ### Self-Service Laundry Simulation
 
@@ -129,7 +129,7 @@ A discrete modeling and simulation project focused on exploring the behavior of 
 
 <td width="50%" valign="top">
 
-## 🪟 RGA Frames
+## 🪟 [RGA Frames Web-based Ordering System](https://github.com/krisiajademutia/RGA-Frames-Web-based-Ordering-System)
 
 ### Web-based Ordering System
 
@@ -145,7 +145,7 @@ A web-based ordering system for a framing business offering ready-made frames, c
 
 <td width="50%" valign="top">
 
-## 🏘️ BarangayConnect
+## 🏘️ [BarangayConnect](https://github.com/krisiajademutia/BarangayConnect)
 
 ### Barangay Disaster App
 
@@ -157,7 +157,7 @@ A disaster-focused application prototype designed around community and barangay-
 
 <td width="50%" valign="top">
 
-## 🐄📱 AgriBenta
+## 🐄📱 [AgriBenta](https://github.com/krisiajademutia/AgriBenta)
 
 ### Flutter Mobile Marketplace
 
@@ -197,112 +197,3 @@ Built using **Flutter and Dart**.
         │          │                  │           │
      Cataract   Malaria            Efficient    Custom
      Detection    Scan               NetB0       CNN
-```
-
-</div>
-
----
-
-# 📱 Mobile Development
-
-<div align="center">
-
-## 🐄 AgriBenta
-
-### Livestock Marketplace Application
-
-A mobile marketplace application for livestock-related buying and selling.
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter Dart">
-
-<br><br>
-
-`Flutter` • `Dart` • `Mobile Development` • `Marketplace`
-
-</div>
-
----
-
-# 🌐 Web & Application Development
-
-<div align="center">
-
-| Project | Technology | Focus |
-|:---|:---:|:---|
-| 🪟 RGA Frames | PHP | Ordering System |
-| 🏘️ BarangayConnect | JavaScript | Disaster Application |
-| 🧺 Laundry Modeling | JavaScript | Simulation |
-
-</div>
-
----
-
-# 🛠️ Technologies & Tools
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,dart" alt="Python TypeScript JavaScript PHP Dart">
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php" alt="HTML CSS JavaScript PHP">
-
-<br><br>
-
-### 📱 Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter Dart">
-
-<br><br>
-
-### 🔧 Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krisiajademutia&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117" height="180" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisiajademutia&layout=compact&hide_border=true&title_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117" height="180" alt="Top programming languages">
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/krisiajademutia/krisiajademutia/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Krisia Jade pink and sky blue footer">
-
-### 🌸 Thanks for visiting my profile! 🩵
-
-**Let's keep building, learning, and creating. ✨**
-
-<br>
-
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FFB6D9?style=for-the-badge" alt="AI and Machine Learning">
-
-<img src="https://img.shields.io/badge/Web%20Development-87CEEB?style=for-the-badge" alt="Web Development">
-
-<img src="https://img.shields.io/badge/Flutter%20%26%20Dart-FFB6D9?style=for-the-badge" alt="Flutter and Dart">
-
-</div>
