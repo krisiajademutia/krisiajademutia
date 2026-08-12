@@ -1,0 +1,85 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -----------------------------
+      # GitHub Stats
+      # -----------------------------
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=krisiajademutia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=87CEEB&icon_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=krisiajademutia&layout=compact&langs_count=8&hide_border=true&title_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -----------------------------
+      # GitHub Streak
+      # -----------------------------
+
+      - name: Generate GitHub Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=krisiajademutia&theme=default&hide_border=true&background=0D1117&border=FFB6D9&ring=FFB6D9&fire=87CEEB&currStreakLabel=FFB6D9&sideLabels=87CEEB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&disable_animations=false
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -----------------------------
+      # Commit generated profile cards
+      # -----------------------------
+
+      - name: Commit profile cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git commit -m "Update GitHub profile cards" || exit 0
+
+          git push
+
+      # -----------------------------
+      # Contribution Snake
+      # -----------------------------
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: krisiajademutia
+          outputs: |
+            dist/github-snake.svg?color_snake=%23FF8FC7&color_dots=%23E8F7FF,%23C9EEFF,%2387CEEB,%23FFB6D9,%23FF8FC7
+            dist/github-snake-dark.svg?color_snake=%23FFB6D9&color_dots=%230D1117,%232A6078,%2387CEEB,%23FFB6D9,%23FF8FC7
+
+      - name: Publish contribution snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update contribution snake"

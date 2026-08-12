@@ -54,7 +54,7 @@ simulations, and mobile marketplaces**.
 
 <td width="50%" valign="top">
 
-## 🤖 [ResQAI](https://github.com/krisiajademutia/ResQAI)
+## 🤖 ResQAI
 
 ### AI Emergency Intelligence
 
@@ -68,7 +68,7 @@ An AI emergency intelligence system designed to transform public social-media si
 
 <td width="50%" valign="top">
 
-## 🩺 [CataractDetection_CNN](https://github.com/krisiajademutia/CataractDetection_CNN)
+## 🩺 CataractDetection_CNN
 
 ### Cataract Detection using CNN
 
@@ -85,7 +85,7 @@ A computer vision project focused on training a CNN model to determine whether a
 
 <td width="50%" valign="top">
 
-## 🦠 [MalariaScan](https://github.com/krisiajademutia/MalariaScan)
+## 🦠 MalariaScan
 
 ### Malaria Detection using Deep Learning
 
@@ -100,7 +100,7 @@ The project explores **Transfer Learning using EfficientNetB0** alongside a cust
 
 <td width="50%" valign="top">
 
-## 🧠 [Emotional Distress NLP System](https://github.com/krisiajademutia/emotional-distress-nlp-system)
+## 🧠 Emotional Distress NLP System
 
 ### NLP-Based Text Analysis
 
@@ -117,7 +117,7 @@ An NLP-based system designed to analyze user-generated text for indicators of se
 
 <td width="50%" valign="top">
 
-## 🧺 [Laundry Modeling & Simulation](https://github.com/krisiajademutia/LaundryModelingandSimulation)
+## 🧺 Laundry Modeling & Simulation
 
 ### Self-Service Laundry Simulation
 
@@ -129,7 +129,7 @@ A discrete modeling and simulation project focused on exploring the behavior of 
 
 <td width="50%" valign="top">
 
-## 🪟 [RGA Frames Web-based Ordering System](https://github.com/krisiajademutia/RGA-Frames-Web-based-Ordering-System)
+## 🪟 RGA Frames Web-based Ordering System
 
 ### Web-based Ordering System
 
@@ -145,7 +145,7 @@ A web-based ordering system for a framing business offering ready-made frames, c
 
 <td width="50%" valign="top">
 
-## 🏘️ [BarangayConnect](https://github.com/krisiajademutia/BarangayConnect)
+## 🏘️ BarangayConnect
 
 ### Barangay Disaster App
 
@@ -157,7 +157,7 @@ A disaster-focused application prototype designed around community and barangay-
 
 <td width="50%" valign="top">
 
-## 🐄📱 [AgriBenta](https://github.com/krisiajademutia/AgriBenta)
+## 🐄📱 AgriBenta
 
 ### Flutter Mobile Marketplace
 
