@@ -1,14 +1,12 @@
 <div align="center">
 
+<img src="./assets/header.svg" width="100%" alt="Krisia Jade pink and sky blue header">
+
 # 🌸 Hi, I'm Krisia Jade! 🩵
 
 ### AI • Machine Learning • Web • Mobile Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Building+practical+software+solutions+%F0%9F%8C%B8;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Creating+Web+%26+Mobile+Applications+%F0%9F%92%BB;Turning+ideas+into+working+projects+%E2%9C%A8" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,50:87CEEB,100:FFB6D9&height=120&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions+%F0%9F%8C%B8;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Creating+Web+%26+Mobile+Applications+%F0%9F%92%BB;Turning+ideas+into+working+projects+%E2%9C%A8" alt="Typing animation">
 
 </div>
 
@@ -16,14 +14,12 @@
 
 ## 🌸 About Me
 
-I'm a developer who enjoys building **practical software solutions**
-using artificial intelligence, machine learning, web technologies,
-and mobile development.
+I'm a developer who enjoys building **practical software solutions** using
+artificial intelligence, machine learning, web technologies, and mobile development.
 
-My projects explore different areas — from **AI-powered emergency
-intelligence and computer vision** to **NLP, disaster-response
-applications, business systems, simulations, and mobile
-marketplaces**.
+My projects explore different areas — from **AI-powered emergency intelligence
+and computer vision** to **NLP, disaster-response applications, business systems,
+simulations, and mobile marketplaces**.
 
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🧠 Interested in Computer Vision and NLP
@@ -40,139 +36,141 @@ marketplaces**.
 
 | 🤖 AI & ML | 🌐 Web | 📱 Mobile | 📊 Systems |
 |:---:|:---:|:---:|:---:|
-| Computer Vision | Web Apps | Flutter | Simulation |
+| Computer Vision | Web Applications | Flutter | Simulation |
 | CNN Models | Business Systems | Dart | Modeling |
-| NLP | Ordering Systems | Mobile Apps | Problem Solving |
-| Transfer Learning | Community Apps | UI Development | System Design |
+| NLP | Ordering Systems | Mobile Apps | System Design |
+| Transfer Learning | Community Apps | UI Development | Problem Solving |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# ✨ Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🤖 ResQAI
 
-### AI Emergency Intelligence System
+### AI Emergency Intelligence
 
-An AI emergency intelligence system designed to transform
-public social-media signals into structured, evidence-backed
-incidents for response teams.
+An AI emergency intelligence system designed to transform public social-media signals into structured, evidence-backed incidents for response teams.
 
-**Tech:** TypeScript
+**Tech:** `TypeScript`
 
-> 🔒 Currently private
+🔒 **Currently Private**
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🩺 CataractDetection_CNN
 
 ### Cataract Detection using CNN
 
-A machine learning project focused on training a CNN model
-to determine whether an eye image contains signs of cataract.
+A computer vision project focused on training a CNN model to determine whether an eye image contains signs of cataract.
 
-**Focus:** Computer Vision • CNN • Medical Image Classification
+**Focus:**  
+`Computer Vision` `CNN` `Image Classification`
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🦠 MalariaScan
 
 ### Malaria Detection using Deep Learning
 
-A CNN-based model designed to analyze red blood cell images
-and determine whether they are infected with malaria.
+A CNN-based model designed to analyze red blood cell images and determine whether they are infected with malaria.
 
-The project explores **Transfer Learning using EfficientNetB0**
-alongside a custom CNN approach.
+Explores **Transfer Learning using EfficientNetB0** alongside a custom CNN approach.
 
-**Focus:** Computer Vision • CNN • Transfer Learning • Deep Learning
+**Focus:**  
+`CNN` `EfficientNetB0` `Transfer Learning` `Deep Learning`
 
----
+</td>
 
-## 🧠 Emotional Distress NLP System
+<td width="50%" valign="top">
+
+## 🧠 Emotional Distress NLP
 
 ### NLP-Based Text Analysis
 
-A natural language processing system designed to analyze
-user-generated text for indicators of severe emotional distress.
+An NLP-based system designed to analyze user-generated text for indicators of severe emotional distress.
 
-**Focus:** NLP • Text Classification • Machine Learning
+**Focus:**  
+`NLP` `Text Classification` `Machine Learning`
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🧺 Laundry Modeling & Simulation
 
-### Self-Service Laundry Discrete Modeling & Simulation
+### Self-Service Laundry Simulation
 
-A simulation project focused on modeling a self-service
-laundry system and exploring its behavior through discrete
-event modeling and simulation.
+A discrete modeling and simulation project focused on exploring the behavior of a self-service laundry system.
 
-**Tech:** JavaScript
+**Tech:** `JavaScript`
 
----
+</td>
 
-## 🪟 RGA Frames Web-based Ordering System
+<td width="50%" valign="top">
+
+## 🪟 RGA Frames
 
 ### Web-based Ordering System
 
-A web-based ordering system for a framing business that
-offers ready-made frames, custom frames, and printing services.
+A web-based ordering system for a framing business offering ready-made frames, custom frames, and printing services.
 
-**Tech:** PHP
+**Tech:** `PHP`
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🏘️ BarangayConnect
 
-### Barangay Disaster App Prototype
+### Barangay Disaster App
 
-A disaster-focused application prototype designed around
-community and barangay-level disaster-related services.
+A disaster-focused application prototype designed around community and barangay-level disaster-related services.
 
-**Tech:** JavaScript
+**Tech:** `JavaScript`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🐄📱 AgriBenta
 
-### Livestock Marketplace Mobile Application
+### Flutter Mobile Marketplace
 
-A mobile marketplace application designed for livestock-related
-buying and selling.
+A livestock marketplace mobile application designed for buying and selling livestock.
 
 Built using **Flutter and Dart**.
 
-**Tech:** Flutter • Dart
+**Tech:** `Flutter` `Dart`
 
----
+</td>
 
-# 🛠️ Technologies & Tools
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,dart" />
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
-
-<br><br>
-
-### 📱 Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-<br><br>
-
-### 🔧 Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</tr>
+</table>
 
 </div>
 
@@ -183,20 +181,128 @@ Built using **Flutter and Dart**.
 <div align="center">
 
 ```text
-                    🤖 AI / MACHINE LEARNING
+                         🤖 AI / MACHINE LEARNING
 
-                           │
-            ┌──────────────┼──────────────┐
-            │              │              │
-       👁️ Computer       🧠 NLP       🧬 Deep Learning
-          Vision
-            │              │              │
-        ┌───┴───┐          │          ┌───┴────┐
-        │       │          │          │        │
-       CNN   Image       Text       CNN    Transfer
-             Analysis   Analysis             Learning
-        │                             
-   ┌────┴─────┐
-   │          │
-Cataract   Malaria
-Detection    Scan
+                                  │
+                  ┌───────────────┼───────────────┐
+                  │               │               │
+           👁️ Computer Vision   🧠 NLP      🧬 Deep Learning
+                  │               │               │
+             ┌────┴────┐         │          ┌────┴─────┐
+             │         │         │          │          │
+            CNN    Image       Text       CNN      Transfer
+                   Analysis   Analysis              Learning
+             │                              │
+        ┌────┴─────┐                  ┌─────┴─────┐
+        │          │                  │           │
+     Cataract   Malaria            Efficient    Custom
+     Detection    Scan               NetB0       CNN
+```
+
+</div>
+
+---
+
+# 📱 Mobile Development
+
+<div align="center">
+
+## 🐄 AgriBenta
+
+### Livestock Marketplace Application
+
+A mobile marketplace application for livestock-related buying and selling.
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter Dart">
+
+<br><br>
+
+`Flutter` • `Dart` • `Mobile Development` • `Marketplace`
+
+</div>
+
+---
+
+# 🌐 Web & Application Development
+
+<div align="center">
+
+| Project | Technology | Focus |
+|:---|:---:|:---|
+| 🪟 RGA Frames | PHP | Ordering System |
+| 🏘️ BarangayConnect | JavaScript | Disaster Application |
+| 🧺 Laundry Modeling | JavaScript | Simulation |
+
+</div>
+
+---
+
+# 🛠️ Technologies & Tools
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,dart" alt="Python TypeScript JavaScript PHP Dart">
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php" alt="HTML CSS JavaScript PHP">
+
+<br><br>
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter Dart">
+
+<br><br>
+
+### 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krisiajademutia&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117" height="180" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisiajademutia&layout=compact&hide_border=true&title_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117" height="180" alt="Top programming languages">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/krisiajademutia/krisiajademutia/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%" alt="Krisia Jade pink and sky blue footer">
+
+### 🌸 Thanks for visiting my profile! 🩵
+
+**Let's keep building, learning, and creating. ✨**
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FFB6D9?style=for-the-badge" alt="AI and Machine Learning">
+
+<img src="https://img.shields.io/badge/Web%20Development-87CEEB?style=for-the-badge" alt="Web Development">
+
+<img src="https://img.shields.io/badge/Flutter%20%26%20Dart-FFB6D9?style=for-the-badge" alt="Flutter and Dart">
+
+</div>
