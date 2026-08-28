@@ -80,7 +80,7 @@ simulations, and mobile marketplaces**.
 
 <img src="https://github-stats-extended.vercel.app/api?username=krisiajademutia&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_border=true&title_color=87CEEB&icon_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117" height="180" alt="GitHub statistics">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krisiajademutia&layout=compact&hide_border=true&title_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117" height="180" alt="Top programming languages">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=krisiajademutia&langs_count=13&hide_values=true&hide_border=true&title_color=FFB6D9&text_color=FFFFFF&bg_color=0D1117" height="180" alt="Top programming languages">
 
 </div>
 
